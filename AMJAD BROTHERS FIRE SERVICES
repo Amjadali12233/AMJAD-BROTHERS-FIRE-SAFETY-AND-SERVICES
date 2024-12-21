@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Amjad Brother Fire and Safety Services</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="logo">Amjad Brother Fire & Safety Services</div>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About Us</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#products">Products</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="home">
+    <h1>Welcome to Amjad Brother Fire & Safety Services</h1>
+    <p>Your trusted partner in fire protection and safety solutions.</p>
+  </section>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>
+      At Amjad Brother Fire & Safety Services, we are committed to protecting lives and property. 
+      With years of experience in the fire and safety industry, we provide high-quality products and 
+      services to meet all safety standards.
+    </p>
+    <p>Our mission is to ensure the safety of our community by delivering reliable and innovative fire safety solutions.</p>
+  </section>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li><strong>Fire Extinguisher Sales & Maintenance</strong>: Supply, installation, and periodic servicing of fire extinguishers.</li>
+      <li><strong>Fire Alarm Systems</strong>: Installation and maintenance of advanced fire detection systems.</li>
+      <li><strong>Emergency Exit Planning</strong>: Design and implementation of safe evacuation strategies.</li>
+      <li><strong>Fire Safety Training</strong>: Training sessions for staff and individuals on fire prevention and safety protocols.</li>
+      <li><strong>Smoke & Gas Detection Systems</strong>: Installation of systems to detect hazardous conditions.</li>
+    </ul>
+  </section>
+
+  <section id="products">
+    <h2>Our Fire and Safety Products</h2>
+    <ul>
+      <li><strong>Fire Extinguishers</strong>: CO2, ABC Powder, Foam, Water, Automatic.</li>
+      <li><strong>Fire Alarms & Detection Systems</strong>: Smoke Detectors, Heat Detectors, Fire Alarm Panels.</li>
+      <li><strong>Fire Suppression Systems</strong>: Kitchen, Gas-Based, Water Mist Systems.</li>
+      <li><strong>Emergency Lighting & Exit Signs</strong>: LED Exit Signs, Emergency Lights.</li>
+      <li><strong>Fire Fighting Equipment</strong>: Fire Hose Reels, Hydrants, Fire Blankets.</li>
+      <li><strong>Personal Protective Equipment (PPE)</strong>: Fire Helmets, Gloves, Safety Boots, Fire Suits.</li>
+      <li><strong>First Aid and Rescue Tools</strong>: First Aid Kits, Stretchers, Life Jackets.</li>
+      <li><strong>Smoke and Gas Detectors</strong>: Carbon Monoxide Detectors, LPG Leak Detectors.</li>
+      <li><strong>Sprinkler Systems</strong>: Ceiling-Mounted, Pendent, Upright Sprinklers.</li>
+      <li><strong>Other Products</strong>: Fire Doors, Safety Cones, Emergency Communication Systems.</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>We are here to help with all your fire and safety needs. Get in touch with us today!</p>
+    <form>
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" placeholder="Your Full Name" required>
+      
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" placeholder="Your Email Address" required>
+      
+      <label for="message">Message:</label>
+      <textarea id="message" name="message" rows="5" placeholder="How can we assist you?" required></textarea>
+      
+      <button type="submit">Send</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 Amjad Brother Fire & Safety Services. All rights reserved.</p>
+  </footer>
+</body>
+</html>
